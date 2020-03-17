@@ -13,7 +13,7 @@ public class App
     
     public static void pippo()
     {
-    	System.out.println("paperino");
+    	System.out.println("pizza");
     	System.out.println("ciao");
     	
     	System.out.println("paolo");
