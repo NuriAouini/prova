@@ -1,5 +1,5 @@
 package com.aouin.progetto;
 
-public class Adfdfdf {
-
+public class Adfdfdf {	
+	
 }
