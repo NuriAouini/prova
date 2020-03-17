@@ -13,7 +13,8 @@ public class App
     
     public static void pippo()
     {
-    	System.out.println("Pippo");
+    	System.out.println("paperino");
+    	System.out.println("ciao");
     }
     
 }
