@@ -13,11 +13,7 @@ public class App
     
     public static void pippo()
     {
-<<<<<<< HEAD
-    	System.out.println("maionese");
-=======
     	System.out.println("pizza");
->>>>>>> develop
     	System.out.println("ciao");
     	
     	System.out.println("paolo");
